@@ -6,7 +6,7 @@ document.addEventListener('keydown', function(t){
     } else if(t.key === 's'){
         color = 'orange';
     } else if(t.key === 'd'){
-        color = 'red';a
+        color = 'red';
     } else{
         color = 'black';
     }
